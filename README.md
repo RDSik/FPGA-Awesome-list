@@ -144,6 +144,7 @@
 * [SVls](https://github.com/dalance/svls.git) - SystemVerilog language server
 * [HDL support for VS Code](https://github.com/mshr-h/vscode-verilog-hdl-support.git) - HDL support for VS Code with Syntax Highlighting, Snippets, Linting, Formatting
 * [TerosHDL](https://github.com/TerosTechnology/vscode-terosHDL) - VSCode extension
+* [VSCode-SystemVerilog](https://github.com/eirikpre/VSCode-SystemVerilog.git)- SystemVerilog support in VS Code
 
 #### Peoples
 * [Artin Isagholian](https://github.com/0xArt)
