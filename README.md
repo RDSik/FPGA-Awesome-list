@@ -101,6 +101,7 @@
 * [NERV](https://github.com/YosysHQ/nerv.git) - NERV is a very simple single-stage RV32I processor.
 * [Snippy](https://github.com/syntacore/snippy.git) - This is an LLVM project fork containing the LLVM-snippy generator.
 * [VeeR-ISS](https://github.com/chipsalliance/VeeR-ISS.git) - Whisper is a RISC-V instruction set simulator (ISS) developed for the verification of the Veer micro-controller.
+* [VeeR EH2](https://github.com/chipsalliance/Cores-VeeR-EH2.git) - Machine-mode (M-mode) only, 32-bit CPU core which supports RISC-V’s integer (I), compressed instruction (C), multiplication and division (M), atomic (A), and instruction-fetch fence, CSR, and subset of bit manipulation instructions (Zb*) extensions.
 * [Spike](https://github.com/riscv-software-src/riscv-isa-sim.git) - Spike, the RISC-V ISA Simulator, implements a functional model of one or more RISC-V harts.
 * [uRV](https://ohwr.org/project/urv-core) - The uRV (Micro RISC-V) core is a small-sized implementation of a 32-bit RISC-V core, targeted specifically at FPGAs.
 * [Hummingbirdv2 E203 Core and SoC](https://github.com/riscv-mcu/e203_hbirdv2.git) - The Ultra-Low Power RISC-V Core
