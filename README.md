@@ -168,3 +168,4 @@
 * [Style Guides](https://github.com/lowRISC/style-guides) - lowRISC style guides
 * [Opencores Scraper](https://github.com/fabriziotappero/opencores-scraper) - Few python scripts to clone all IP cores from opencores.org
 * [FreeCores](https://github.com/freecores) - A home for open source hardware cores
+* [FPGA_pract](https://github.com/MPSU/FPGA_pract.git) - Методические материалы курса "Практикум по ПЛИС"
