@@ -93,39 +93,40 @@
 * [Others](#Others)
 
 #### CPU
-* [schoolMIPS](https://github.com/MIPSfpga/schoolMIPS) - A small MIPS CPU core originally based on Sarah L. Harris MIPS CPU ("Digital Design and Computer Arhitecture" by David Money Harris and Sarah L Harris). 
-* [RARS](https://github.com/TheThirdOne/rars.git) - RARS, the RISC-V Assembler, Simulator, and Runtime, will assemble and simulate the execution of RISC-V assembly language programs.
+* [schoolMIPS](https://github.com/MIPSfpga/schoolMIPS) - A small MIPS CPU core originally based on Sarah L. Harris MIPS CPU ("Digital Design and Computer Arhitecture" by David Money Harris and Sarah L Harris).
 * [schoolRISCV](https://github.com/zhelnio/schoolRISCV.git) - Tiny RISCV CPU. Originally based on Sarah L. Harris MIPS CPU ("Digital Design and Computer Arhitecture" by David Money Harris and Sarah L Harris) and schoolMIPS project.
+* [RARS](https://github.com/TheThirdOne/rars.git) - RARS, the RISC-V Assembler, Simulator, and Runtime, will assemble and simulate the execution of RISC-V assembly language programs.
 * [LUMOS](https://github.com/IUST-Computer-Organization/LUMOS.git) - Multicycle RISC-V processor that implements a subset of RV32I instruction set, designed for educational use in computer organization classes at Iran University of Science and Technology.
-* [PicoRV32](https://github.com/YosysHQ/picorv32.git) - PicoRV32 is a CPU core that implements the RISC-V RV32IMC Instruction Set. 
-* [MIRISCV](https://github.com/MPSU/MIRISCV.git) - CPU core that implements ISA RV32IM.
+* [PicoRV32](https://github.com/YosysHQ/picorv32.git) - PicoRV32 is a CPU core that implements the RISC-V RV32IMC Instruction Set.
+* [NERV](https://github.com/YosysHQ/nerv.git) - NERV is a very simple single-stage RV32I processor.
 * [Ibex](https://github.com/lowRISC/ibex.git) - Production-quality open source 32-bit RISC-V CPU that supports the Integer (I) or Embedded (E), Integer Multiplication and Division (M), Compressed (C), and B (Bit Manipulation) extensions.
 * [Zip CPU](https://github.com/ZipCPU/zipcpu.git) - The Zip CPU is a small, light-weight, RISC CPU.
-* [CORE-V Wally](https://github.com/openhwgroup/cvw.git) - Configurable RISC-V Processor associated with RISC-V System-on-Chip Design textbook. Contains a 5-stage pipeline, support for A, B, C, D, F, M and Q extensions, and optional caches, BP, FPU, VM/MMU, AHB, RAMs, and peripherals.
-* [RISCV-DV](https://github.com/chipsalliance/riscv-dv.git) - RISCV-DV is a SV/UVM based open-source instruction generator for RISC-V processor verification.
 * [AAPG](https://gitlab.com/shaktiproject/tools/aapg.git) - Automated Assembly Program Generator for the RISC-V ISA.
 * [APS](https://github.com/MPSU/APS.git) - Лекции и лабораторные по курсу «Архитектуры процессорных систем»
-* [NERV](https://github.com/YosysHQ/nerv.git) - NERV is a very simple single-stage RV32I processor.
+* [MIRISCV](https://github.com/MPSU/MIRISCV.git) - CPU core that implements ISA RV32IM.
 * [Snippy](https://github.com/syntacore/snippy.git) - This is an LLVM project fork containing the LLVM-snippy generator.
+* [SCR1](https://github.com/syntacore/scr1.git) - Open-source and free to use RISC-V compatible MCU-class core, designed and maintained by Syntacore
+* [RISCV-DV](https://github.com/chipsalliance/riscv-dv.git) - RISCV-DV is a SV/UVM based open-source instruction generator for RISC-V processor verification.
 * [VeeR-ISS](https://github.com/chipsalliance/VeeR-ISS.git) - Whisper is a RISC-V instruction set simulator (ISS) developed for the verification of the Veer micro-controller.
 * [VeeR EH2](https://github.com/chipsalliance/Cores-VeeR-EH2.git) - Machine-mode (M-mode) only, 32-bit CPU core which supports RISC-V’s integer (I), compressed instruction (C), multiplication and division (M), atomic (A), and instruction-fetch fence, CSR, and subset of bit manipulation instructions (Zb*) extensions.
 * [VeeR-EL2](https://github.com/chipsalliance/Cores-VeeR-EL2.git) - VeeR EL2 RISC-V Core
+* [Rocket Chip Generator](https://github.com/chipsalliance/rocket-chip.git) - The Rocket chip generator necessary to instantiate the RISC-V Rocket Core
 * [Spike](https://github.com/riscv-software-src/riscv-isa-sim.git) - Spike, the RISC-V ISA Simulator, implements a functional model of one or more RISC-V harts.
 * [uRV](https://ohwr.org/project/urv-core) - The uRV (Micro RISC-V) core is a small-sized implementation of a 32-bit RISC-V core, targeted specifically at FPGAs.
 * [Hummingbirdv2 E203 Core and SoC](https://github.com/riscv-mcu/e203_hbirdv2.git) - The Ultra-Low Power RISC-V Core
+* [CORE-V Wally](https://github.com/openhwgroup/cvw.git) - Configurable RISC-V Processor associated with RISC-V System-on-Chip Design textbook. Contains a 5-stage pipeline, support for A, B, C, D, F, M and Q extensions, and optional caches, BP, FPU, VM/MMU, AHB, RAMs, and peripherals.
 * [CV32E40P](https://github.com/openhwgroup/cv32e40p.git) - CV32E40P is an in-order 4-stage RISC-V RV32IMFCXpulp CPU based on RI5CY from PULP-Platform
 * [CV32E40X](https://github.com/openhwgroup/cv32e40x.git) - CV32E40X is a small and efficient, 32-bit, in-order RISC-V core with a 4-stage pipeline
 * [CVA6](https://github.com/openhwgroup/cva6.git) - The CORE-V CVA6 is an Application class 6-stage RISC-V CPU capable of booting Linux
+* [CVFPU](https://github.com/openhwgroup/cvfpu.git) - Parametric floating-point unit with support for standard RISC-V formats and operations as well as transprecision formats
 * [Vortex GPGPU](https://github.com/vortexgpgpu/vortex.git) - Vortex is a full-stack open-source RISC-V GPGPU
 * [RISC-V Debug](https://github.com/pulp-platform/riscv-dbg.git) - RISC-V Debug Support for PULP RISC-V Cores
 * [biRISC-V](https://github.com/ultraembedded/biriscv.git) - 32-bit Superscalar RISC-V CPU
-* [Rocket Chip Generator](https://github.com/chipsalliance/rocket-chip.git) - The Rocket chip generator necessary to instantiate the RISC-V Rocket Core
 * [RISC-V Core](https://github.com/ultraembedded/riscv.git) - 32-bit RISC-V core written in Verilog and an instruction set simulator supporting RV32IM
 * [RV12](https://github.com/RoaLogic/RV12.git) - Highly configurable single-issue, single-core RV32I, RV64I compliant RISC CPU intended for the embedded market.
 * [RSD](https://github.com/rsd-devel/rsd.git) - RISC-V Out-of-Order Superscalar Processor
 * [DarkRISCV](https://github.com/darklife/darkriscv.git) - opensouce RISC-V cpu core implemented in Verilog from scratch in one night
 * [SERV](https://github.com/olofk/serv.git) - The SErial RISC-V CPU
-* [CVFPU](https://github.com/openhwgroup/cvfpu.git) - Parametric floating-point unit with support for standard RISC-V formats and operations as well as transprecision formats
 * [VeriGPU](https://github.com/hughperkins/VeriGPU.git) - OpenSource GPU, in Verilog, loosely based on RISC-V ISA
 
 #### Tools
