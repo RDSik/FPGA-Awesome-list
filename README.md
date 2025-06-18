@@ -51,6 +51,10 @@
 * [Harvard CS50 на русском](https://www.youtube.com/watch?v=Sy_wba7l1UU&list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5)
 * [Архитектуры процессорных систем](https://www.youtube.com/watch?v=JmiMaKVoloI&list=PL0def37HEo5KHPjwK7A5bd4RJGg4djPVf&ab_channel=%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D1%8B%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%BD%D1%8B%D1%85%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC)
 * [Архитектура компьютеров и Операционные системы](https://www.youtube.com/watch?v=HbeOCWNsGK0&list=PL4_hYwCyhAvZcOr5sJzuLmze2F6wPms-A&ab_channel=%D0%9B%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D0%B9%D0%A4%D0%9F%D0%9C%D0%98)
+* [ZYNQ Ultrascale+ and PetaLinux](https://www.youtube.com/watch?v=WyVLb0ykaF4&list=PL9GWVTghqmkIfkk1FtxaAtb2y5BIAP2I7&ab_channel=MohammadS.Sadri)
+* [Сети ЭВМ и Телекоммуникации](https://www.youtube.com/watch?v=0y-fBBjVmno&list=PL70qXPb9p9KkiWCb2mm7gZNnD255Gp8L0&ab_channel=ВераДроздова)
+* [FPGA/SoC Board Bring-Up Tutorial](https://www.youtube.com/watch?v=B-CbDfrfJRk&list=PLXSyc11qLa1ZutrEG2XmyWrNz17SSQTdH&ab_channel=Phil’sLab)
+* [Software Defined Radio with HackRF by Michael Ossmann](https://www.youtube.com/watch?v=BeeSN14JUYU&list=PLu0BPYzTjiHru1KmPThmbY-8rRm3EWvUQ&ab_channel=GreatScottGadgets)
 
 ## Telegram
 
@@ -76,6 +80,7 @@
 * [РЕВЕРС-ИНЖИНИРИНГ ВСТРАИВАЕМЫХ СИСТЕМ](https://dmkpress.com/catalog/electronics/circuit_design/978-5-93700-231/)
 * [Джон Л. Хеннесси, Дэвид А. Паттерсон "Компьютерная архитектура. Количественный подход"]()
 * [Performance Analysis and Tuning on Modern CPU](https://github.com/dendibakh/perf-book.git)
+* [Digital design: A Systems Approach William J.Dally and R.Curtis Harting]()
 
 ## GitHub
 
