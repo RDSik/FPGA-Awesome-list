@@ -82,7 +82,7 @@
 * [Performance Analysis and Tuning on Modern CPU](https://github.com/dendibakh/perf-book.git)
 * [Digital Design: A Systems Approach William J.Dally and R.Curtis Harting]()
 * [Computer Architecture: A Quantitative Approach John L. Hennessy and David A. Patterson]()
-* [The C Programming Language Brian W. Kernighan and Dennis M. Ritchie]
+* [The C Programming Language Brian W. Kernighan and Dennis M. Ritchie]()
 
 ## GitHub
 
