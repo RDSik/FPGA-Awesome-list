@@ -120,6 +120,11 @@
 * [Rocket Chip Generator](https://github.com/chipsalliance/rocket-chip.git) - The Rocket chip generator necessary to instantiate the RISC-V Rocket Core
 * [RISC-V Core](https://github.com/ultraembedded/riscv.git) - 32-bit RISC-V core written in Verilog and an instruction set simulator supporting RV32IM
 * [RV12](https://github.com/RoaLogic/RV12.git) - Highly configurable single-issue, single-core RV32I, RV64I compliant RISC CPU intended for the embedded market.
+* [RSD](https://github.com/rsd-devel/rsd.git) - RISC-V Out-of-Order Superscalar Processor
+* [DarkRISCV](https://github.com/darklife/darkriscv.git) - opensouce RISC-V cpu core implemented in Verilog from scratch in one night
+* [SERV](https://github.com/olofk/serv.git) - The SErial RISC-V CPU
+* [CVFPU](https://github.com/openhwgroup/cvfpu.git) - Parametric floating-point unit with support for standard RISC-V formats and operations as well as transprecision formats
+* [VeriGPU](https://github.com/hughperkins/VeriGPU.git) - OpenSource GPU, in Verilog, loosely based on RISC-V ISA
 
 #### Tools
 * [SV2V](https://github.com/zachjs/sv2v.git) - Converts SystemVerilog (IEEE 1800-2017) to Verilog (IEEE 1364-2005), with an emphasis on supporting synthesizable language constructs
