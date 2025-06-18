@@ -78,7 +78,7 @@
 * [ПРОГРАММИРОВАНИЕ НА ЯЗЫКЕ АССЕМБЛЕРА RISC-V](https://dmkpress.com/catalog/computer/programming/assembler/978-5-93700-300-3/)
 * [АРХИТЕКТУРА ВСТРАИВАЕМЫХ СИСТЕМ](https://dmkpress.com/catalog/electronics/circuit_design/978-5-93700-206-8/)
 * [РЕВЕРС-ИНЖИНИРИНГ ВСТРАИВАЕМЫХ СИСТЕМ](https://dmkpress.com/catalog/electronics/circuit_design/978-5-93700-231/)
-* * [Software Defined Radio with Zynq UltraScale+ RFSoC](https://github.com/strath-sdr/RFSoC-Book.git)
+* [Software Defined Radio with Zynq UltraScale+ RFSoC](https://github.com/strath-sdr/RFSoC-Book.git)
 * [Performance Analysis and Tuning on Modern CPU](https://github.com/dendibakh/perf-book.git)
 * [Digital Design: A Systems Approach William J.Dally and R.Curtis Harting]()
 * [Computer Architecture: A Quantitative Approach John L. Hennessy and David A. Patterson]()
