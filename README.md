@@ -55,6 +55,8 @@
 * [Сети ЭВМ и Телекоммуникации](https://www.youtube.com/watch?v=0y-fBBjVmno&list=PL70qXPb9p9KkiWCb2mm7gZNnD255Gp8L0&ab_channel=ВераДроздова)
 * [FPGA/SoC Board Bring-Up Tutorial](https://www.youtube.com/watch?v=B-CbDfrfJRk&list=PLXSyc11qLa1ZutrEG2XmyWrNz17SSQTdH&ab_channel=Phil’sLab)
 * [Software Defined Radio with HackRF by Michael Ossmann](https://www.youtube.com/watch?v=BeeSN14JUYU&list=PLu0BPYzTjiHru1KmPThmbY-8rRm3EWvUQ&ab_channel=GreatScottGadgets)
+* [Learn SDR with Prof Jason](https://www.youtube.com/watch?v=tj_9p_rXULM&list=PLywxmTaHNUNyKmgF70q8q3QHYIw_LFbrX)
+* [DSP on Zynq 7000](https://www.youtube.com/watch?v=bSITChYFNU8&list=PLcV-rIMdGc6WkR2XMtQIWvvI97bIP25v3)
 
 ## Telegram
 
