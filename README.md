@@ -57,6 +57,7 @@
 * [Software Defined Radio with HackRF by Michael Ossmann](https://www.youtube.com/watch?v=BeeSN14JUYU&list=PLu0BPYzTjiHru1KmPThmbY-8rRm3EWvUQ&ab_channel=GreatScottGadgets)
 * [Learn SDR with Prof Jason](https://www.youtube.com/watch?v=tj_9p_rXULM&list=PLywxmTaHNUNyKmgF70q8q3QHYIw_LFbrX)
 * [DSP on Zynq 7000](https://www.youtube.com/watch?v=bSITChYFNU8&list=PLcV-rIMdGc6WkR2XMtQIWvvI97bIP25v3)
+* [Семинары по ЦОС](https://www.youtube.com/watch?v=yam0CfRwHvg&list=PLWESuD8Qb6LFLFX71c7dvqJaJDH7PFT4W)
 
 ## Telegram
 
