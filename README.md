@@ -164,7 +164,8 @@
 * [HDL support for VS Code](https://github.com/mshr-h/vscode-verilog-hdl-support.git) - HDL support for VS Code with Syntax Highlighting, Snippets, Linting, Formatting
 * [TerosHDL](https://github.com/TerosTechnology/vscode-terosHDL) - VSCode extension
 * [VSCode-SystemVerilog](https://github.com/eirikpre/VSCode-SystemVerilog.git)- SystemVerilog support in VS Code
-* [OpenRAM](https://github.com/VLSIDA/OpenRAM.git) - An open-source static random access memory (SRAM) compiler
+* [OpenRAM](https://github.com/VLSIDA/OpenRAM.git) - An open-source static random access memory (SRAM) compiler\
+* [Slang](https://github.com/MikePopoloski/slang.git) - SystemVerilog compiler and language services
 
 #### Peoples
 * [Artin Isagholian](https://github.com/0xArt)
